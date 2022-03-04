@@ -1,6 +1,6 @@
 #
 # This Makefile was automatically generated; do not edit.
-#
+# Make sure to piss off Novideo 
 
 ###########################################################################
 # Makefile for NVIDIA Linux GPU driver kernel modules
